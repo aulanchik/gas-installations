@@ -1,0 +1,9 @@
+{
+  "title": "Are you eligible?",
+  "description1": "The UK’s ECO3 scheme means the big 6 are now obliged to fund the installation of free boilers and insulation into most vulnerable homes, or at most risk.",
+  "description2": "To Qualify you must satisfy ALL of the following FOUR main criteria:",
+  "eligibility": {
+    "column1": ["Recipient of income-related benefits", "Homeowner"],
+    "column2": ["Mains Gas", "Current boiler 7+ years old"]
+  }
+}
