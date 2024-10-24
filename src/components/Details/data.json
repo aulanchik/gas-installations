@@ -1,0 +1,45 @@
+{
+  "details": {
+    "titles": {
+      "title1": "The Details",
+      "title2": "Boiler Qualification",
+      "title3": "Means Tested Benefits",
+      "title4": "Other Considerations"
+    },
+    "texts": {
+      "text1": "The free non-repayable grant can be allocated to you if:",
+      "text2": "The boiler which is hoping to be replaced must be 7+ years old, but carry a fault that affects its overall efficiency and operation. It must be deemed by an engineer to be beyond ‘economical’ repair.",
+      "text3": "Only those in receipt of certain benefits will fit the criteria to claim a free boiler grant.",
+      "text4": "The style of property in which you live is also taken into consideration too. The older and more in-efficient your property is, the more funding it will yield to go towards the grant. If you have a very efficient property, you may need to contribute a small amount to cover the cost of the install."
+    },
+    "benefits": {
+      "first": [
+        { "id": 1, "text": "Child Tax Credit" },
+        { "id": 2, "text": "Income-Related JSA" },
+        { "id": 3, "text": "Universal Credit" },
+        { "id": 4, "text": "Personal Independent Payment" },
+        { "id": 5, "text": "Pension Credits" },
+        { "id": 6, "text": "Armed Forces Independent Payment" }
+      ],
+      "second": [
+        { "id": 7, "text": "Working Tax Credits" },
+        { "id": 8, "text": "Child Benefit" },
+        { "id": 9, "text": "Income Support" },
+        { "id": 10, "text": "Attendance Allowance" },
+        { "id": 11, "text": "Ministry of Justice Benefits" },
+        { "id": 12, "text": "War Pensions Mobility Supplement" }
+      ],
+      "third": [
+        { "id": 13, "text": "Income-Related ESA" },
+        { "id": 14, "text": "Industrial Injuries Disablement" },
+        { "id": 15, "text": "Disability Living Allowance" },
+        { "id": 16, "text": "Constant Attendance Allowance" },
+        { "id": 17, "text": "Carer’s Allowance" },
+        { "id": 18, "text": "Severe Disablement Allowance" }
+      ]
+    },
+    "button": {
+      "label": "Check Eligibility"
+    }
+  }
+}
